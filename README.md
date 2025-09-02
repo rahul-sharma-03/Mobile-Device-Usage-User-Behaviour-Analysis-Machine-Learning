@@ -118,6 +118,12 @@ user-behavior-classification/
 - An interactive GUI was developed using Tkinter, allowing users to input mobile usage data and receive an instant prediction of the user's behavior class.
 
 - The interface provides a simple form for entering feature values and displays the predicted class clearly. This makes the model accessible and easy to use for non-technical users.
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/4b9766a4-45d2-4ec9-904c-d5efd4ccbe73" />
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/e8c178f6-9759-4326-bd2f-0da55d736723" />
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/5cafd984-948c-404b-9ed3-09b1e59f8b4a" />
+
+
+
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>🚀 How to Run This Project</h2>
