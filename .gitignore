@@ -1,0 +1,10 @@
+# Python specific cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook temporary files
+.ipynb_check-points/
+
+# System files
+.DS_Store
+Thumbs.db
